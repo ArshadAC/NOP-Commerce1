@@ -1,0 +1,152 @@
+ 2023-12-09 13:05:12,977 : INFO : Test_Login : test_login : 16 : opening browser
+ 2023-12-09 13:05:18,201 : INFO : Test_Login : test_login : 21 : Enter Email ID
+ 2023-12-09 13:05:18,314 : INFO : Test_Login : test_login : 24 : Enter Password
+ 2023-12-09 13:06:37,225 : INFO : Test_Login : test_login : 16 : opening browser
+ 2023-12-09 13:06:42,421 : INFO : Test_Login : test_login : 21 : Enter Email IDadmin@yourstore.com
+ 2023-12-09 13:06:42,547 : INFO : Test_Login : test_login : 24 : Enter Passwordadmin
+ 2023-12-09 13:15:06,769 : INFO : Test_Login : test_login : 16 : opening browser
+ 2023-12-09 13:15:12,002 : INFO : Test_Login : test_login : 21 : Enter Email ID--> admin@yourstore.com
+ 2023-12-09 13:15:12,114 : INFO : Test_Login : test_login : 24 : Enter Password--> admin
+ 2023-12-09 13:15:19,539 : INFO : Test_Login : test_login : 30 : Click on Logout
+ 2023-12-09 15:02:57,476 : INFO : Test_Login : test_login : 16 : opening browser
+ 2023-12-09 15:03:02,902 : INFO : Test_Login : test_login : 21 : Enter Email ID--> admin@yourstore.com
+ 2023-12-09 15:03:03,073 : INFO : Test_Login : test_login : 24 : Enter Password--> admin
+ 2023-12-09 15:03:11,363 : INFO : Test_Login : test_login : 30 : Click on Logout
+ 2023-12-09 15:11:32,545 : INFO : Test_Login : test_login : 16 : opening browser
+ 2023-12-09 15:11:38,044 : INFO : Test_Login : test_login : 21 : Enter Email ID--> admin@yourstore.com
+ 2023-12-09 15:11:38,327 : INFO : Test_Login : test_login : 24 : Enter Password--> admin
+ 2023-12-09 15:11:45,617 : INFO : Test_Login : test_login : 30 : Click on Logout
+ 2023-12-09 17:07:50,343 : INFO : Test_Login_DDT : test_Login_DDT : 16 : test_Login_DDT_started
+ 2023-12-09 17:07:50,343 : INFO : Test_Login_DDT : test_Login_DDT : 17 : opening browser
+ 2023-12-09 17:08:03,251 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening url-->https://admin-demo.nopcommerce.com/
+ 2023-12-09 17:10:05,182 : INFO : Test_Login_DDT : test_Login_DDT : 16 : test_Login_DDT_started
+ 2023-12-09 17:10:05,182 : INFO : Test_Login_DDT : test_Login_DDT : 17 : opening browser
+ 2023-12-09 17:10:10,084 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening url-->https://admin-demo.nopcommerce.com/
+ 2023-12-09 17:10:10,285 : INFO : Test_Login_DDT : test_Login_DDT : 30 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:10:10,463 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Password---->admin
+ 2023-12-09 17:10:13,760 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Click on Login
+ 2023-12-09 17:12:39,285 : INFO : Test_Login_DDT : test_Login_DDT : 16 : test_Login_DDT_started
+ 2023-12-09 17:12:39,286 : INFO : Test_Login_DDT : test_Login_DDT : 17 : opening browser
+ 2023-12-09 17:12:43,777 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening url-->https://admin-demo.nopcommerce.com/
+ 2023-12-09 17:12:44,006 : INFO : Test_Login_DDT : test_Login_DDT : 30 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:12:44,142 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Password---->admin
+ 2023-12-09 17:12:46,051 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Click on Login
+ 2023-12-09 17:15:34,839 : INFO : Test_Login_DDT : test_Login_DDT : 18 : test_Login_DDT_started
+ 2023-12-09 17:15:34,840 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening browser
+ 2023-12-09 17:15:40,128 : INFO : Test_Login_DDT : test_Login_DDT : 21 : opening url-->https://admin-demo.nopcommerce.com/
+ 2023-12-09 17:15:40,365 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:15:40,551 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:15:42,239 : INFO : Test_Login_DDT : test_Login_DDT : 36 : Click on Login
+ 2023-12-09 17:18:12,752 : INFO : Test_Login_DDT : test_Login_DDT : 18 : test_Login_DDT_started
+ 2023-12-09 17:18:12,752 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening browser
+ 2023-12-09 17:18:18,312 : INFO : Test_Login_DDT : test_Login_DDT : 21 : opening url-->https://admin-demo.nopcommerce.com/
+ 2023-12-09 17:18:18,558 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:18:18,692 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:18:28,418 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:18:31,341 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2023-12-09 17:18:31,472 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:18:37,117 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:18:37,343 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:18:37,469 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2023-12-09 17:18:43,172 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:18:43,644 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2023-12-09 17:18:43,865 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2023-12-09 17:18:49,462 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:35:40,601 : INFO : Test_Login_DDT : test_Login_DDT : 18 : test_Login_DDT_started
+ 2023-12-09 17:35:40,601 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening browser
+ 2023-12-09 17:35:45,646 : INFO : Test_Login_DDT : test_Login_DDT : 21 : opening url-->https://admin-demo.nopcommerce.com/
+ 2023-12-09 17:35:45,825 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:35:45,929 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:35:53,073 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:35:54,852 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2023-12-09 17:35:54,967 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:36:00,409 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:36:00,650 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:36:00,775 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2023-12-09 17:36:06,414 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:36:06,603 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2023-12-09 17:36:06,712 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2023-12-09 17:36:12,203 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:41:38,005 : INFO : Test_Login_DDT : test_Login_DDT : 18 : test_Login_DDT_started
+ 2023-12-09 17:41:38,006 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening browser
+ 2023-12-09 17:41:44,119 : INFO : Test_Login_DDT : test_Login_DDT : 21 : opening url-->https://admin-demo.nopcommerce.com/
+ 2023-12-09 17:41:44,334 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:41:44,666 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:41:51,951 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:41:53,887 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2023-12-09 17:41:53,991 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:41:59,441 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:41:59,652 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:41:59,783 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2023-12-09 17:42:05,796 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:42:06,021 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2023-12-09 17:42:06,135 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2023-12-09 17:42:11,552 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:45:28,172 : INFO : Test_Login_DDT : test_Login_DDT : 18 : test_Login_DDT_started
+ 2023-12-09 17:45:28,172 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening browser
+ 2023-12-09 17:45:34,591 : INFO : Test_Login_DDT : test_Login_DDT : 21 : opening url-->https://admin-demo.nopcommerce.com/
+ 2023-12-09 17:45:34,772 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:45:34,870 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:45:42,543 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:46:26,499 : INFO : Test_Login_DDT : test_Login_DDT : 18 : test_Login_DDT_started
+ 2023-12-09 17:46:26,499 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening browser
+ 2023-12-09 17:46:32,192 : INFO : Test_Login_DDT : test_Login_DDT : 21 : opening url-->https://admin-demo.nopcommerce.com/
+ 2023-12-09 17:46:32,371 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:46:32,481 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:46:39,551 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:46:41,327 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2023-12-09 17:46:41,444 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:46:46,941 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:46:47,160 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:46:47,302 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2023-12-09 17:46:52,754 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:46:52,941 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2023-12-09 17:46:53,065 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2023-12-09 17:46:58,516 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:47:35,178 : INFO : Test_Login_DDT : test_Login_DDT : 18 : test_Login_DDT_started
+ 2023-12-09 17:47:35,179 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening browser
+ 2023-12-09 17:47:40,436 : INFO : Test_Login_DDT : test_Login_DDT : 21 : opening url-->https://admin-demo.nopcommerce.com/
+ 2023-12-09 17:47:40,941 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:47:41,052 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:47:49,301 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:47:51,025 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2023-12-09 17:47:51,127 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:47:56,557 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:47:56,757 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:47:56,884 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2023-12-09 17:48:02,309 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:48:02,538 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2023-12-09 17:48:02,651 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2023-12-09 17:48:08,106 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:48:08,166 : INFO : Test_Login_DDT : test_Login_DDT : 58 : test_Login_DDT Passed
+ 2023-12-09 17:48:08,451 : INFO : Test_Login_DDT : test_Login_DDT : 64 : test_Login_DDT completed
+ 2023-12-09 17:55:45,601 : INFO : Test_Login_DDT : test_Login_DDT : 18 : test_Login_DDT_started
+ 2023-12-09 17:55:45,602 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening browser
+ 2023-12-09 17:56:06,884 : INFO : Test_Login_DDT : test_Login_DDT : 21 : opening url-->https://admin-demo.nopcommerce.com/
+ 2023-12-09 17:56:07,086 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:56:07,191 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:56:32,833 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:56:50,353 : INFO : Test_Login_DDT : test_Login_DDT : 18 : test_Login_DDT_started
+ 2023-12-09 17:56:50,353 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening browser
+ 2023-12-09 17:56:56,585 : INFO : Test_Login_DDT : test_Login_DDT : 21 : opening url-->https://admin-demo.nopcommerce.com/
+ 2023-12-09 17:56:56,769 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:56:56,883 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:59:17,198 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:59:25,795 : INFO : Test_Login_DDT : test_Login_DDT : 18 : test_Login_DDT_started
+ 2023-12-09 17:59:25,796 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening browser
+ 2023-12-09 17:59:31,425 : INFO : Test_Login_DDT : test_Login_DDT : 21 : opening url-->https://admin-demo.nopcommerce.com/
+ 2023-12-09 17:59:31,671 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:59:31,812 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:59:39,181 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:59:44,161 : INFO : Test_Login_DDT : test_Login_DDT : 43 : Click on Logout Button
+ 2023-12-09 17:59:44,390 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2023-12-09 17:59:44,491 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2023-12-09 17:59:50,899 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 17:59:51,205 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2023-12-09 17:59:51,359 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2023-12-09 17:59:59,770 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 18:00:00,194 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2023-12-09 18:00:00,327 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2023-12-09 18:00:07,178 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2023-12-09 18:00:07,384 : INFO : Test_Login_DDT : test_Login_DDT : 64 : test_Login_DDT Passed
+ 2023-12-09 18:00:07,874 : INFO : Test_Login_DDT : test_Login_DDT : 70 : test_Login_DDT completed
