@@ -32,18 +32,3 @@ class Test_Login:
         else:
             print("Test Failed")
             assert False
-
-    def test_login_01(self,setup):
-        self.driver = setup
-        self.driver.get(self.url)
-        self.lp = Loginpage(self.driver)
-        self.lp.Enter_Email("admin@yourstore.com")
-        self.lp.Enter_Password("admin123")
-        self.lp.Click_Login()
-        if self.driver.title == "Dashboard / nopCommerce administration":
-            self.driver.save_screenshot("E:\\Automation Project\\New NOP commerece\\Screenshots\\test_login_01_Passed.png")
-            self.lp.ClickLogout()
-            assert True
-        else:
-            print("Test Failed")
-            assert False

@@ -150,3 +150,65 @@
  2023-12-09 18:00:07,178 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
  2023-12-09 18:00:07,384 : INFO : Test_Login_DDT : test_Login_DDT : 64 : test_Login_DDT Passed
  2023-12-09 18:00:07,874 : INFO : Test_Login_DDT : test_Login_DDT : 70 : test_Login_DDT completed
+ 2024-02-10 15:31:25,989 : INFO : Test_Login_DDT : test_Login_DDT : 18 : test_Login_DDT_started
+ 2024-02-10 15:31:25,989 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening browser
+ 2024-02-10 15:31:32,724 : INFO : Test_Login_DDT : test_Login_DDT : 21 : opening url-->https://admin-demo.nopcommerce.com/
+ 2024-02-10 15:31:33,037 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2024-02-10 15:31:33,149 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2024-02-10 15:31:40,980 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2024-02-10 15:31:44,374 : INFO : Test_Login_DDT : test_Login_DDT : 43 : Click on Logout Button
+ 2024-02-10 15:31:44,685 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2024-02-10 15:31:44,843 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2024-02-10 15:31:50,781 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2024-02-10 15:31:51,215 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2024-02-10 15:31:51,360 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2024-02-10 15:31:57,359 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2024-02-10 15:31:57,837 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2024-02-10 15:31:57,998 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2024-02-10 15:32:03,638 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2024-02-10 15:32:03,844 : INFO : Test_Login_DDT : test_Login_DDT : 64 : test_Login_DDT Passed
+ 2024-02-10 15:32:04,043 : INFO : Test_Login_DDT : test_Login_DDT : 70 : test_Login_DDT completed
+ 2024-02-10 15:33:41,273 : INFO : Test_Login : test_login : 16 : opening browser
+ 2024-02-10 15:33:46,720 : INFO : Test_Login : test_login : 21 : Enter Email ID--> admin@yourstore.com
+ 2024-02-10 15:33:46,946 : INFO : Test_Login : test_login : 24 : Enter Password--> admin
+ 2024-02-10 15:33:54,603 : INFO : Test_Login : test_login : 30 : Click on Logout
+ 2024-02-10 15:34:09,679 : INFO : Test_Login_DDT : test_Login_DDT : 18 : test_Login_DDT_started
+ 2024-02-10 15:34:09,679 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening browser
+ 2024-02-10 15:34:21,895 : INFO : Test_Login_DDT : test_Login_DDT : 21 : opening url-->https://admin-demo.nopcommerce.com/
+ 2024-02-10 15:34:22,140 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2024-02-10 15:34:22,267 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2024-02-10 15:34:30,046 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2024-02-10 15:34:33,313 : INFO : Test_Login_DDT : test_Login_DDT : 43 : Click on Logout Button
+ 2024-02-10 15:34:33,537 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2024-02-10 15:34:33,690 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2024-02-10 15:34:39,231 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2024-02-10 15:34:39,626 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2024-02-10 15:34:39,733 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2024-02-10 15:34:45,473 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2024-02-10 15:34:45,820 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2024-02-10 15:34:45,940 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2024-02-10 15:34:51,827 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2024-02-10 15:34:52,021 : INFO : Test_Login_DDT : test_Login_DDT : 64 : test_Login_DDT Passed
+ 2024-02-10 15:34:52,564 : INFO : Test_Login_DDT : test_Login_DDT : 70 : test_Login_DDT completed
+ 2024-02-10 15:37:57,756 : INFO : Test_Login : test_login : 16 : opening browser
+ 2024-02-10 15:38:03,123 : INFO : Test_Login : test_login : 21 : Enter Email ID--> admin@yourstore.com
+ 2024-02-10 15:38:03,339 : INFO : Test_Login : test_login : 24 : Enter Password--> admin
+ 2024-02-10 15:38:12,014 : INFO : Test_Login : test_login : 30 : Click on Logout
+ 2024-02-10 15:38:27,652 : INFO : Test_Login_DDT : test_Login_DDT : 18 : test_Login_DDT_started
+ 2024-02-10 15:38:27,652 : INFO : Test_Login_DDT : test_Login_DDT : 19 : opening browser
+ 2024-02-10 15:38:34,839 : INFO : Test_Login_DDT : test_Login_DDT : 21 : opening url-->https://admin-demo.nopcommerce.com/
+ 2024-02-10 15:38:35,096 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2024-02-10 15:38:35,233 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2024-02-10 15:38:42,996 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2024-02-10 15:38:46,105 : INFO : Test_Login_DDT : test_Login_DDT : 43 : Click on Logout Button
+ 2024-02-10 15:38:46,315 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2024-02-10 15:38:46,450 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin
+ 2024-02-10 15:38:52,257 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2024-02-10 15:38:52,608 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com
+ 2024-02-10 15:38:52,799 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2024-02-10 15:38:58,572 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2024-02-10 15:38:59,050 : INFO : Test_Login_DDT : test_Login_DDT : 32 : Entering Email--->admin@yourstore.com1
+ 2024-02-10 15:38:59,208 : INFO : Test_Login_DDT : test_Login_DDT : 34 : Entering Password---->admin1
+ 2024-02-10 15:39:04,823 : INFO : Test_Login_DDT : test_Login_DDT : 37 : Click on Login
+ 2024-02-10 15:39:05,026 : INFO : Test_Login_DDT : test_Login_DDT : 64 : test_Login_DDT Passed
+ 2024-02-10 15:39:05,316 : INFO : Test_Login_DDT : test_Login_DDT : 70 : test_Login_DDT completed
